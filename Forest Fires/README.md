@@ -22,6 +22,7 @@ The X and Y variables are coordinates of fire locations. The acronym FWI stands 
 
 ## Analysis
 
+Using data visualization techniques to obtain the following:
 - Number of Forest Fires per Month
 - Number of Forest Fires per Day
 - Monthly Boxplots
