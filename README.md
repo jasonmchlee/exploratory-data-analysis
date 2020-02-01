@@ -12,3 +12,6 @@ Repository focused on exploratory data analysis for various datasets used in aca
 1. [Forest Fires](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Forest%20Fires)
 2. [General Exploration (Various Datasets)](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Exploring%20Data%20in%20R)
 
+## SQL
+1. [Chinook Music Database](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Chinook%20(Music%20Store))
+
