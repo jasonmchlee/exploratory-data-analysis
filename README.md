@@ -7,6 +7,7 @@ Repository focused on exploratory data analysis for various datasets used in aca
 - [New York Taxis](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/New%20York%20Taxis)
 - [Fortune 500 Magazine](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Fortune%20500%20Magazine)
 - [Hacker News](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Hacker%20News)
+- [Exploring Star Wars Surveys](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Star%20Wars)
 - [Cars Sold on eBay Cars](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Cars%20Sold%20on%20eBay)
 
 ## R
