@@ -2,7 +2,6 @@
 Repository focused on exploratory data analysis for various datasets used in academic, personal and professional projects.
 
 ## Python
-- [Jumpman Delivery, NYC Analysis](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Jumpman%20Delivery)
 - [App Store & Google Play Store](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/App%20Store%20and%20Google%20Play%20Store)
 - [New York Taxis](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/New%20York%20Taxis)
 - [Fortune 500 Magazine](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Fortune%20500%20Magazine)
