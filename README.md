@@ -2,6 +2,7 @@
 Repository focused on exploratory data analysis for various datasets used in academic, personal and professional projects.
 
 ## Python
+- [Open University Learning Analytics](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Open%20University%20Learning%20Analytics%20)
 - [Stock Price and Performance](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/Stock%20Prices)
 - [App Store & Google Play Store](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/App%20Store%20and%20Google%20Play%20Store)
 - [New York Taxis](https://github.com/jasonmchlee/exploratory-data-analysis/tree/master/New%20York%20Taxis)
